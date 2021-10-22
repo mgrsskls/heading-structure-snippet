@@ -10,4 +10,4 @@ Please note that this snippet only checks the logical structure, but not whether
 
 ## How to use as a bookmarklet
 
-Minify the code from the `index.js` (e.g. to https://minify-js.com/) and create a bookmark in your browser with the following url: `javascript:(function(){...})();` replacing `...` with the minified code.
+Minify the code from [index.js](https://github.com/mgrsskls/headline-structure-snippet/blob/main/index.js) (e.g. to https://minify-js.com/) and create a bookmark in your browser with the following url: `javascript:(function(){...})();` replacing `...` with the minified code.
